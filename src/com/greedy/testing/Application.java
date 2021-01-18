@@ -13,7 +13,5 @@ public class Application {
 		
 		System.out.println("master");  
 		
-		System.out.println("aaaa");
-	}
 
 }
